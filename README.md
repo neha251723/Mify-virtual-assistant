@@ -1,0 +1,3 @@
+It's a Virtual Assistant that helps in assisting things , opening sites
+It is developed by using Html, Css, JavaScript
+It's a Minor project, that is designed for helping....
